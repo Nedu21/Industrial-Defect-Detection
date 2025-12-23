@@ -24,6 +24,6 @@ When tested on a non-steel surface (peeling paint), the model correctly identifi
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run inference on your own image: 
    ```bash
-   Usage: python src/predict_new.py <IMAGE_PATH> <MODEL_PATH>
+   #Usage: python src/predict_new.py <IMAGE_PATH> <MODEL_PATH>
    python src/predict_new.py pitted.jpg best_neu_model.pth
    ```
