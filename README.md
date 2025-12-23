@@ -22,6 +22,5 @@ When tested on a non-steel surface (peeling paint), the model correctly identifi
 ## 🛠️ Installation & Usage
 1. Clone the repo: `git clone https://github.com/Nedu21/Industrial-Defect-Detection.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run inference on your own image:
-   Usage: python src/predict_new.py <IMAGE_PATH> <MODEL_PATH>
-    python src/predict_new.py pitted.jpg best_neu_model.pth
+3. Run inference on your own image: `Usage: python src/predict_new.py <IMAGE_PATH> <MODEL_PATH>`
+   python src/predict_new.py pitted.jpg best_neu_model.pth
