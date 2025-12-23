@@ -1,0 +1,17 @@
+# Python stuff
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.venv/
+venv/
+.vscode/
+
+# Project Data (Large files)
+NEU-DET/
+runs/
+*.pth
+
+# OS files
+.DS_Store
